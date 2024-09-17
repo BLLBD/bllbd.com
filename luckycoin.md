@@ -1,0 +1,1 @@
+There's no resurrection yet. They're all leek coins.
