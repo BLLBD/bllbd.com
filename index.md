@@ -15,12 +15,12 @@ hero:
 
 features:
   - title: Q1
-    details: coming soon!
+    details: Create a wallet that supports five coins!
   - title: Q2
-    details: coming soon!
+    details: I do not know what to say!
   - title: Q3
-    details: coming soon!
+    details: I do not know what to say!
   - title: QN
-    details: coming soon!
+    details: I do not know what to say!
 ---
 

@@ -33,8 +33,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/bllbd' },
-      { icon: 'x', link: 'https://x.com/CAT420Protocol' }      
+      { icon: 'github', link: 'https://github.com/bllbd' }
     ],
 
     footer: {
