@@ -1,0 +1,1 @@
+BllBD was inspired by Billy Markus, the father of DogeCoin, i.e. BitCoin->LiteCoin->LuckyCoin->BellsCoin->DogeCoin.

@@ -23,17 +23,19 @@ export default defineConfig({
       { text: 'LiteCoin', link: 'https://litecoin.org' },
       { text: 'LuckyCoin', link: '/luckycoin' },
       { text: 'BellsCoin', link: 'https://bellscoin.com/' },
-      { text: 'DogeCoin', link: 'https://dogecoin.com/' }
+      { text: 'DogeCoin', link: 'https://dogecoin.com/' },
+      { text: 'Guide', link: '/guide' }
     ],
     sidebar: [
       {
-        text: 'introduction',
-        link: '/introduction'
+        text: 'welocome',
+        link: '/guide'
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/bllbd' }
+      { icon: 'github', link: 'https://github.com/bllbd' },
+      { icon: 'twitter', link:'https://discord.gg/C5dAA3Ww'}
     ],
 
     footer: {

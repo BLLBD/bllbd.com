@@ -1,1 +1,1 @@
-There's no resurrection yet. They're all leek coins.
+It hasn't been resurrected yet, and I'm not sure what the reason is? Looking forward to Warrior bringing it back to life!
